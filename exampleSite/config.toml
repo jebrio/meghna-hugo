@@ -1,4 +1,4 @@
-baseURL = "https://jebrio.netlify.com"
+baseURL = "https://jebrio.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
